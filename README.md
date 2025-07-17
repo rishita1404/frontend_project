@@ -17,7 +17,6 @@ Our team created a responsive and user-friendly **Language Learning Website** to
 - HTML5
 - CSS3
 - JavaScript
-- Google Fonts
 
 ## 👩‍💻 Team Members
 
